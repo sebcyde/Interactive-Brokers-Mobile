@@ -177,7 +177,7 @@ padding-right: 20%;
 
 .postdiff
 {
-    background-image: url(/Images/globestill.jpeg);
+    background-image: url(images/globestill.jpeg);
     background-size:  cover;
     width: 100%;
 padding: 0px;
@@ -259,7 +259,7 @@ justify-content: center;
 {
     text-align: center;
     padding-top: 5%;
-background-image: url(/Images/globestill.jpeg);
+background-image: url(images/globestill.jpeg);
 background-size: 500px 825px;
 background-repeat: no-repeat;
 color: white;
@@ -414,7 +414,7 @@ font-size: 3em;
     color: white;
     padding-top: 15%;
 text-align: center;
-background-image: url(/Images/business-graph-chart-of-stock-market-investment-on-blue-background-vector.jpg);
+background-image: url(images/business-graph-chart-of-stock-market-investment-on-blue-background-vector.jpg);
 background-size: cover;
 margin-bottom: 0px;
 }
